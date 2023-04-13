@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "upload.root-location",
+  "type": "java.lang.String",
+  "description": "Fichero donde se subirán las imágenes que recibamos por el form data"
+}]}
